@@ -1,0 +1,14 @@
+---
+title: "Merge Conflict Practice"
+format: html
+---
+
+## Team Info
+
+Favorite programming language: ______
+
+Favorite snack while coding: ______
+
+## Notes
+
+This is the last line of the file.
