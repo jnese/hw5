@@ -5,7 +5,7 @@ format: html
 
 ## Team Info
 
-Favorite programming language: _Python_____
+Favorite programming language: R
 
 Favorite snack while coding: ______
 
